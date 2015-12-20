@@ -7,8 +7,9 @@ gslhcqe;.bckjcn
 gfhkfkh
 hfdgfsg
 bvcdgd
-<<<<<<< HEAD
 
-=======
+
+
 hello dear
->>>>>>> sam-demo
+
+hello sam

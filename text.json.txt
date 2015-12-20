@@ -9,8 +9,7 @@
     {
       "lang": "fr",
       "knowledge": "advanced"
-    }
-  ],
+   
   "job": {
     "site": "www.javacodegeeks.com",
     "name": "Java Code Geeks"

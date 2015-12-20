@@ -7,13 +7,17 @@ gslhcqe;.bckjcn
 gfhkfkh
 hfdgfsg
 bvcdgd
-<<<<<<< HEAD
+
 
 
 
 hello dear
 
-=======
+
 hello dear
->>>>>>> sam-demo
+
 hello sam
+
+hello sam
+hello mukim
+

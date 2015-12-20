@@ -1,2 +1,0 @@
-# intern-program
-Android projects

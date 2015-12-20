@@ -18,8 +18,13 @@ static{
 	
 }
 public static Connection getCon(){
+<<<<<<< HEAD
 	return conn;
          return start;
+=======
+	return con
+return con1;
+>>>>>>> sam-demo
 }
 
 
